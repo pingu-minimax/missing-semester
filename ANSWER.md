@@ -1,1 +1,1 @@
-_2026/course-shell.md
+[Hacker Tools](https://hacker-tools.github.io)
