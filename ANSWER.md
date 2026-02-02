@@ -1,1 +1,1 @@
-_2026/development-environment.md
+[Hacker Tools](https://hacker-tools.github.io/)
