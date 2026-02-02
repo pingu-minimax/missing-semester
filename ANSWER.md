@@ -1,1 +1,1 @@
-[Hacker Tools](https://hacker-tools.github.io/)
+_2026/command-line-environment.md
